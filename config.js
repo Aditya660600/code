@@ -1,1 +1,1 @@
-just like that
+console.log("just like that")
